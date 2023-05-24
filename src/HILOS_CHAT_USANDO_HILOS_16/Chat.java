@@ -17,6 +17,7 @@ public class Chat {
         String kathyo5 = "Kathy: John's playing soccer in the park. Oh, wait. My phone is rining. My mother's calling me. I have to go! Bye!" + "\n" + "\n";
         String megm6 = "Meg: Ok! Bye!" + "\n" + "\n";
 
+
         Runner.escribir(megm1, 150);
         try{
             Thread.sleep(2000); // Duerme durante 2 segundos

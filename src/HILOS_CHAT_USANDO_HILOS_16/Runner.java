@@ -8,6 +8,7 @@ public class Runner {
             try{
                 Thread.sleep(velocidad);
             }
+
             catch (Exception e){
                 System.out.println(e);
             }

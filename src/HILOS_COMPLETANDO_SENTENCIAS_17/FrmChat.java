@@ -55,6 +55,7 @@ public class FrmChat extends JFrame implements Runnable {
 
     }
 
+
     public static void main(String[] args) {
         FrmChat frmconversacion = new FrmChat();
         frmconversacion.setVisible(true);
