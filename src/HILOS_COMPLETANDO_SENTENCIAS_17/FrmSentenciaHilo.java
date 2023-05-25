@@ -144,6 +144,7 @@ public class FrmSentenciaHilo extends JFrame {
         }
     }
 
+
     public void preguntas() {
         // MENSAJE
         System.out.println();
